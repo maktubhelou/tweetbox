@@ -1,0 +1,56 @@
+body {
+  margin: 0;
+  padding: 0;
+  font-family: sans-serif;
+}
+
+
+
+textarea {
+/*	height: 125px;
+*/	resize: none;
+}
+
+.avatar {
+    position: relative;
+    top: -35px;
+}
+
+i:hover {
+  cursor: pointer;
+}
+
+.shadow-outline:focus {
+  outline: none;
+  box-shadow: 0em 0em 0.25em #fff;
+}
+
+.inside_counter {
+		margin: 0px;
+    padding: 0px;
+    width: 50px;
+    font-size: 0.5em;
+    color: steelblue;
+    position: relative;
+    bottom: 2em;
+    right: -1.5em;
+    float: right;
+}
+
+/*.Tweetbox {
+	background: linear-gradient(45deg, grey, white);
+}
+
+.tweets {
+	background-color: #f2f8ff;
+	width: 90%;
+	border: 1px solid #a3cdff;
+	margin: 2.5%;
+	padding: 2.5%;
+	text-align: left;
+	box-shadow: 2px 1px 2px #d1e3f9;
+}
+
+.tweets:hover {
+	
+}*/

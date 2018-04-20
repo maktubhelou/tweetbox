@@ -1,0 +1,11 @@
+1. make the tweetbox a fixed height that is larger;
+2. make the tweet button cursor turn to "x" when the tweet is too long, also an alert or a sound?
+4. make the newest tweet appear a bit different.
+
+
+Learnings:
+To make the list reverse, needed to add .reverse() before .map() [in both instances if we didn't add .reverse() to the handleLike function then it caused the newly LIKED tweets to map onto the end.]
+
+
+Done.
+3. make the tweets appear in reverse order
